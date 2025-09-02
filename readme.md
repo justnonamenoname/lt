@@ -782,7 +782,7 @@ This may indicate an unlikely error in the article, for which there are no visib
 
 ## Part 6. Qualia space
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/space.png">
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/space.png" width="250">
 
 **Distance**
 
