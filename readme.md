@@ -833,7 +833,7 @@ The brain is supposed to be able to create a volumetric image of no more than on
 The question concerns not the brain, but the nature of qualia.
 At the same time, the image layer does not appear as something that occupies volume, as if there are two size parameters - height and width - while the third parameter, depth, is absent.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/layerposition.png">
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/layerposition.png" width="250">
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/layer.png" width="250">
 
 The brain already generates a multi-layered image with overlap.
