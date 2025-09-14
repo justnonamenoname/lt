@@ -594,7 +594,7 @@ The fact that qualia are generated from a quantum state allows us to define form
 
 Generator structure
 
-1 particle cannot store a lot of different information.
+1 particle cannot store a lot of different information (e.g., spin).
 The assumption that qualia coordinates correspond to particle locations implies that visual depth would require many depth particles.
 But this has problems:
 1) The depth would be limited
