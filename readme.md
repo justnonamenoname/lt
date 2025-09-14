@@ -956,7 +956,7 @@ Space itself is something. It is difficult to imagine that the elements composin
 Qualia appear as a non-living, automatic mechanism.
 This shows that reality functions independently of consciousness.
 As a counterargument, the function of lifeticle attachment is automatic.
-The fact that the lifeticle has physical properties in some way brings the world/reality and consciousness closer together, which may raise the question of whether elementary particles are alive.
+The fact that the lifeticle has physical properties in some way brings the world/reality and consciousness closer together, which may raise the question of do elementary particles have the property of qualia.
 The theory is compatible with panpsychism in relation to elementary particles, if this does not contradict quantum field theory, since particles are based on fields.
 However, there is no such contradiction in string theory; this may mean that the lifeticle has already been discovered, but the property of qualia has not been identified.
 In a completed physical theory, qualia must be present either as a discovered lifeticle particle or as a defined property of an elementary particle.
