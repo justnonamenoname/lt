@@ -331,7 +331,7 @@ To disprove the theory, it is necessary, for example, to prove:
 that the streams for qualia do not converge on a single particle; that the influence of qualia on the brain is absent; that there are no particles remaining throughout life;
 that particles disappear at death; if we are in virtual reality; that the moment of death exists and undiscovered angels really arrive.
 The law of conservation of energy and the circulation of particles in nature lead to the main idea of the theory - the possibility of a next birth.
-To refute it, it is necessary to refute either the law of conservation of energy or the circulation of particles.
+To refute this idea, it is necessary to refute either the law of conservation of energy or the circulation of particles.
 The question: what happens if the brain's particles end up in different brains of other organisms, leads to the idea of the consciousness carrier as a single particle.
 
 **Research path**
@@ -454,7 +454,7 @@ It is problematic to prove the existence of another fundamental phenomenon.
 This is known from the position of the lifeticle itself - the very sensation of visual information without the sensation of "yourself" is only possible if the sensation and the so-called observer exist.  
 Detection of the lifeticle will lead to the question: how to understand that it has the property of qualia and that it is a lifeticle?  
 Since qualia is based on quantum information, qualia cannot be directly detected.
-If qualia consists of frames, then the simultaneity of frames also adds to the detection problem.
+The simultaneity of frames also adds to the detection problem.
 Experiments in quantum physics take place in an isolated environment and it is unknown whether qualia exists in them, unlike in the brain environment.
 To understand this, it is necessary to research the convergence of signals for qualia and the transition of information to the quantum level, as well as to research the feedback in the form of collapse.
 This is the only way to research qualia and solve the "hard problem of consciousness."
@@ -522,7 +522,8 @@ A circle has more information than a point with a radius.
 The transition can be resolved by the wave function.
 Part of the image may have the form of a volume of an object, and individual points of the image are linked to the volumetric form.
 Some qualia are connected to others. This indicates a complex structure of qualia and its generation.
-Other qualia also have a size parameter. The size and the coordinate of qualia are parameters of the same order.
+Other qualia also have a size parameter.
+The size and the coordinate of qualia are parameters of the same order.
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/round.png">
 
@@ -536,10 +537,10 @@ If the frames of the image and sound were separate, it would lead to flickering 
 But this appears as a violation of continuity.
 Smoothness in the passage of time occurs either by an instantaneous skip of time without qualia, or by a separate method.
 To remove information from a superposition, a collapse is required; in order for some qualia not to exist in the next second, collapse is a necessary condition.
-Reasons why qualia might be thought to occur at the moment of collapse, rather than the wave function itself:
-1) We would observe "flickering" due to gradual state construction
+Reasons why qualia might be thought to occur at the moment of collapse, rather than the quantum state itself:
+1) We would observe "flickering" due to gradual state construction of quantum state
 2) Frame rate adjustment would be impossible
-3) The no-cloning theorem might be violated if qualia existed prior to collapse, though this may not be an issue if the lifeticle is part of the wave function or if qualia follow their own laws
+3) The no-cloning theorem might be violated if qualia existed prior to collapse, though this may not be an issue if the lifeticle is part of the entangled state or if qualia follow their own laws
 4) Mismatch between the timing of qualia and its feedback influence. Not a critical flaw, but a possible drawback
 
 **Reverse influence**
@@ -599,8 +600,8 @@ Qualia is caused by a physical process, to reproduce it one must know how to rep
 Since qualia is based on a quantum state, and the no-cloning theorem prohibits copying an unknown quantum state, qualia cannot be transmitted; one can only repeat the process of creating the qualia of a quantum state.
 Once the person has seen the color red, it is possible to reimagine it. Information about the sensation of color is stored in the brain, and the brain, using this information, is capable of reproducing the color through the method of generating qualia.
 Qualia can be transferred in another way.  
-The chain [Light waves - eyes - brain - generator - wave function - qualia]  
-is replaced by [Simulation of the process in the brain - generator - wave function - qualia].  
+The chain [Light waves - eyes - brain - generator - quantum state - qualia]  
+is replaced by [Simulation of the process in the brain - generator - quantum state - qualia].  
 This would mean that one could know what it is like to be another living organism - for example, a bat.
 Since qualia is quantum, it represents information about a quantum system, which means that in some way one can obtain information about the system by experiencing it.
 This does not violate the no-cloning theorem, since the quantum state is destroyed, but it does add to the theorem that one can in some way recognize the quantum state.
@@ -611,7 +612,7 @@ The way information is encoded for generating qualia and the fact that it is not
 The issue of encoding and decoding appears as a problem of conversion, where the decoder is on the side of the lifeticle.
 The decoder cannot be on the side of the lifeticle, since it is a structure consisting of parts.
 The solution to the problem of the decoder on the lifeticle side would be the existence of qualia without a lifeticle, in which case an object that is qualia exists but is not perceived by anyone.
-For example: If the qualia field is a wave function, then the wave function exists without the lifeticle.
+For example: If the qualia is a quantum state, then the quantum state exists without the lifeticle.
 Then the generation of qualia is the construction of a qualia-object from qualia-elements.
 And instead of the question of how qualia are generated, the question arises: what is the property of qualia in a physical object, or what is a qualia-object that has the property of physical interaction.
 The correct question may be: not what physical law creates qualia, but what law of qualia allows it to influence the physical.
@@ -619,9 +620,9 @@ If the coordinate in the signal can be correlated with the coordinate of qualia,
 This is not about the wavelength, since the image can be imagined with closed eyes, but about the numerical parameters in the wave function.
 In the case of other qualia, such as the sense of mystery, the incongruity problem is more complicated.
 To the question why some signals lead to one color and others to another, the answer is: this is the construction of the qualia object, and another question arises - how is the qualia object constructed.
-This may mean that at the moment of collapse, the construction of the object's qualia occurs based on the information of the wave function.
-Since the wave function of qualia is formed gradually, while a frame of phenomenal consciousness is triggered by the collapse, this provides grounds to assume that a qualia-object may exist independently as an integrated structure.
-There should be no modification of information between the wave function and the lifeticle, since it is the brain that tunes qualia and it cannot tune beyond the quantum level.
+This may mean that at the moment of collapse, the construction of the object's qualia occurs based on the information of the quantum state.
+Since the quantum state of qualia is formed gradually, while a frame of phenomenal consciousness is triggered by the collapse, this provides grounds to assume that a qualia-object may exist independently as an integrated structure.
+There should be no modification of information between the quantum state and the lifeticle, since it is the brain that tunes qualia and it cannot tune beyond the quantum level.
 At the same time, information alone could not create pain/negative/positive qualia; it must be defined by opposites.
 The strength of pain must depend on the number of signals and energy, otherwise any level of pain could be set by just a parameter.  
 One might imagine pain as antimatter, but this does not happen in the brain and there is no option without an opposite.  
@@ -631,8 +632,8 @@ Microtubules can be ionized by both positively and negatively charged ions.
 Qualia coordinates in space cannot be specified by xyz coordinates, since this is a partition of space along axes that does not exist.
 If the coordinates are specified by spin, then the coordinates must be set unconditionally and the reference point is unclear.
 The way information is encoded for qualia will be studied during the research of the qualia generator.
-Since the size of the point of the visual image is nonzero, this means that we are directly observing wave functions, or a qualia object that depends on it.
-The fact that qualia are generated from a wave function allows us to define formulas for the qualia wave function.
+Since the size of the point of the visual image is nonzero, this means that we are directly observing quantum states, or a qualia object that depends on it.
+The fact that qualia are generated from a quantum state allows us to define formulas for the qualia wave function.
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/decode.png" width="150">
 
@@ -655,8 +656,7 @@ But other problems remain:
 5) The lifeticle would need to be held at an angle to qualia space to match the qualia coordinates
 
 Means that the qualia coordinate is specified by a parameter, and the generator shape can be arbitrary, not corresponding to the qualia coordinates.
-This corresponds to the fact that in Orch OR the shape of the generator does not correspond to the coordinates of the qualia.
-Due to the simultaneity of frames, the number of particles participating in the generation of the wave function must be no less than the number of qualia units.
+Due to the simultaneity of frames, the number of particles participating in the generation of the quantum state must be no less than the number of qualia units.
 The entanglement time of particles can be as small as desired, except for the time it takes to create the entanglement itself, to combine information and solve the binding problem.
 Microtubules are suitable for this.
 
@@ -685,7 +685,7 @@ Thus, from qualia one can obtain the properties of quantum mechanics: non-locali
 The question of whether artificial intelligence can have phenomenal consciousness may involve another question:
 is it physically possible for AI to detect this quantum mechanical phenomenon on its own?
 The philosophical term "unity of consciousness" denotes one of the reasons for the existence of religion.
-And since the unity of consciousness comes from the unity of the wave function of quantum entangled particles, then one of the reasons for religion is an incorrect explanation of the phenomenon of quantum entanglement.
+And since the unity of consciousness comes from the unity of the quantum state of entangled particles, then one of the reasons for religion is an incorrect explanation of the phenomenon of quantum entanglement.
 
 **Data transfer speed**
 
@@ -721,7 +721,7 @@ Similarly, enhanced hearing would require more brain capacity. A dog's excellent
 The question is divided into two parts: what sensations and of what strength the brain is capable of generating, and what types are generally possible, and whether their number is limited.
 This may mean that the potential for happiness and its diversity has not been revealed.  
 The research of the qualia generator is a path to the revelation of the potential of happiness.
-Since qualia depends on the wave function, the parameters of qualia are set through the Hilbert space.
+Since qualia depends on the information of the quantum state, the parameters of qualia are set through the Hilbert space.
 The Hilbert space has no boundaries, but whether the qualia parameters have boundaries can only be determined in practice.
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/eye.png" width="200">
@@ -957,7 +957,6 @@ They perform actions, but phenomenal consciousness does not perform any such act
 Space itself is something. It is difficult to imagine that the elements composing space are alive, or that qualia could be directed to such elements.
 Qualia appear as a non-living, automatic mechanism.
 This shows that reality functions independently of consciousness.
-If we are in a virtual reality, this applies to the base reality as well - life and independent elementary particles exist there.
 As a counterargument, the function of lifeticle attachment is automatic.
 The fact that the lifeticle has physical properties in some way brings the world/reality and consciousness closer together, which may raise the question of whether elementary particles are alive.
 The theory is compatible with panpsychism in relation to elementary particles, if this does not contradict quantum field theory, since particles are based on fields.
@@ -1020,7 +1019,7 @@ Polarity is a value with an opposite; for positive polarity, it corresponds to p
 
 These are preliminary formulas, the exact formulas can only be determined by researching the qualia generator.
 Strength of qualia depends on energy.
-The temporal dynamics are set by the adjustment of the wave function frames by the brain.
+The temporal dynamics are set by the adjustment of the quantum state frames by the brain.
 
 ---
 
