@@ -619,6 +619,10 @@ This is not about the wavelength, since the image can be imagined with closed ey
 In the case of other qualia, such as the sense of mystery, the incongruity problem is more complicated.
 To the question why some signals lead to one color and others to another, the answer is: this is the construction of the qualia object, and another question arises - how is the qualia object constructed.
 Since qualia is based on a quantum state, the construction of a qualia-object occurs based on the information of the quantum state.  
+The elements of qualia are energy.  
+The encoding problem - the explanatory gap, is not resolved because qualia are fundamental.
+Since the brain determines the informational part of phenomenal consciousness, it is possible to establish informational correspondence.  
+Qualia is energy in a quantum state's informational state.
 Since the quantum state is formed gradually, while a frame of phenomenal consciousness is triggered by the collapse, this provides grounds to assume that a qualia-object may exist independently as an integrated structure.
 There should be no modification of information between the quantum state and the lifeticle, since it is the brain that tunes qualia and it cannot tune beyond the quantum level.
 At the same time, information alone could not create pain/negative/positive qualia; it must be defined by opposites.
