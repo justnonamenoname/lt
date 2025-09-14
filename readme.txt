@@ -579,7 +579,7 @@ This is not about the wavelength, since the image can be imagined with closed ey
 In the case of other qualia, such as the sense of mystery, the incongruity problem is more complicated.
 To the question why some signals lead to one color and others to another, the answer is: this is the construction of the qualia object, and another question arises - how is the qualia object constructed.
 This may mean that at the moment of collapse, the construction of the object's qualia occurs based on the information of the quantum state.
-Since the quantum state of qualia is formed gradually, while a frame of phenomenal consciousness is triggered by the collapse, this provides grounds to assume that a qualia-object may exist independently as an integrated structure.
+Since the quantum state is formed gradually, while a frame of phenomenal consciousness is triggered by the collapse, this provides grounds to assume that a qualia-object may exist independently as an integrated structure.
 There should be no modification of information between the quantum state and the lifeticle, since it is the brain that tunes qualia and it cannot tune beyond the quantum level.
 At the same time, information alone could not create pain/negative/positive qualia; it must be defined by opposites.
 The strength of pain must depend on the number of signals and energy, otherwise any level of pain could be set by just a parameter.
