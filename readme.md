@@ -540,7 +540,7 @@ To remove information from a superposition, a collapse is required; in order for
 Reasons why qualia might be thought to occur at the moment of collapse, rather than the quantum state itself:
 1) There would be temporal flicker due to the gradual formation of the quantum state
 2) Frame rate adjustment would be impossible
-3) The no-cloning theorem might be violated if qualia existed prior to collapse, though this may not be an issue if the lifeticle is part of the entangled state or if qualia follow their own laws
+3) The no-cloning theorem might be violated, though this may not be an issue if the lifeticle is part of the entangled state or if qualia follow their own laws
 4) Mismatch between the timing of qualia and its feedback influence. Not a critical flaw, but a possible drawback
 
 **Reverse influence**
