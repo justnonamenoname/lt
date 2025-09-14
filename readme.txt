@@ -538,7 +538,6 @@ Qualia being fundamental and reverse influence being linked to random quantum pr
 The chain [signals - qualia] leads to two possibilities:
 1) Qualia cannot be detected, and then the signals appear as leading nowhere without effect
 2) Qualia can be detected as a quantum effect of reverse influence
-A quantum phenomenon leads to qualia. Physicists may begin to hypothesize which quantum phenomenon it could be, and start creating a model of the qualia generator.
 
 Fundamentality in the brain
 
