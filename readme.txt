@@ -484,7 +484,7 @@ A circle has more information than a point with a radius.
 The transition can be resolved by the wave function.
 Part of the image may have the form of a volume of an object, and individual points of the image are linked to the volumetric form.
 Some qualia are connected to others. This indicates a complex structure of qualia and its generation.
-Other qualia also have a size parameter.
+Other qualia also have a size parameter; for example, pain has one.
 The size and the coordinate of qualia are parameters of the same order.
 
 Speed of time
@@ -498,7 +498,7 @@ But this appears as a violation of continuity.
 Smoothness in the passage of time occurs either by an instantaneous skip of time without qualia, or by a separate method.
 To remove information from a superposition, a collapse is required; in order for some qualia not to exist in the next second, collapse is a necessary condition.
 Reasons why qualia might be thought to occur at the moment of collapse, rather than the quantum state itself:
-1) We would observe "flickering" due to gradual state construction of quantum state
+1) There would be temporal flicker due to the gradual formation of the quantum state
 2) Frame rate adjustment would be impossible
 3) The no-cloning theorem might be violated if qualia existed prior to collapse, though this may not be an issue if the lifeticle is part of the entangled state or if qualia follow their own laws
 4) Mismatch between the timing of qualia and its feedback influence. Not a critical flaw, but a possible drawback
@@ -943,7 +943,7 @@ Polarity is a value with an opposite; for positive polarity, it corresponds to p
 
 These are preliminary formulas, the exact formulas can only be determined by researching the qualia generator.
 Strength of qualia depends on energy.
-The temporal dynamics are set by the adjustment of the quantum state frames by the brain.
+The temporal dynamics are set by the brain’s adjustment of quantum state frames.
 
 ========================
 
