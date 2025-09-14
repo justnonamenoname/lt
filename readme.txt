@@ -569,7 +569,7 @@ The way information is encoded for generating qualia and the fact that it is not
 The issue of encoding and decoding appears as a problem of conversion, where the decoder is on the side of the lifeticle.
 The decoder cannot be on the side of the lifeticle, since it is a structure consisting of parts.
 The solution to the problem of the decoder on the lifeticle side would be the existence of qualia without a lifeticle, in which case an object that is qualia exists but is not perceived by anyone.
-For example: If the qualia is a quantum state, then the quantum state exists without the lifeticle.
+For example: If qualia is a quantum state, then the quantum state exists without the lifeticle.
 Then the generation of qualia is the construction of a qualia-object from qualia-elements.
 And instead of the question of how qualia are generated, the question arises: what is the property of qualia in a physical object, or what is a qualia-object that has the property of physical interaction.
 The correct question may be: not what physical law creates qualia, but what law of qualia allows it to influence the physical.
