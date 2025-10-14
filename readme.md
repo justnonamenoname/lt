@@ -1,11 +1,11 @@
-**Lifeticle | LT theory of phenomenal consciousness | Survival**
+LT theory of phenomenal consciousness | Survival**
 
-Lifeticle is a particle that acts as a subject, the so-called observer in the brain, with the following functions:
+Lt is a particle that acts as a subject, the so-called observer in the brain, with the following functions:
 1) Perception (Qualia): Visuals, sounds, pain, and other sensations
 2) Attachment to the organism
 3) Reverse influence on the brain
 
-The lifeticle remains in the brain after its death.  
+The lt remains in the brain after its death.  
 Phenomenal consciousness is the sum of sensations/qualia. Other brain functions are not part of phenomenal consciousness.
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/1.png" width="250">
@@ -13,7 +13,7 @@ Phenomenal consciousness is the sum of sensations/qualia. Other brain functions 
 ## Part 1. Survival
 Necessity of cryonics
 
-### Lifeticle's existence
+### Lt's existence
 
 To the question of what happens after death, another question arises: what was there before birth?
 The particles that make up the body existed before birth and will continue to exist after death.
@@ -28,13 +28,13 @@ If cells were fully replaced, it would imply death.
 If nothing from the body remains from when one was a child, then that body has been destroyed and died, and what exists now is a different one.
 If the particles that made up the child were gathered again, one might assume that this would be you, not the one in the current body, but this is not the case.
 A complete replacement of the brain would mean that at some point during life you would stop feeling anything, and there would be a different carrier of consciousness.
-Therefore, something remains - a certain central or core particle in the brain, which is the so-called observer (lifeticle).
-You are real "yourself" in the brain, particle that feels - the so-called observer (lifeticle).
+Therefore, something remains - a certain central or core particle in the brain, which is the so-called observer (lt).
+You are real "yourself" in the brain, particle that feels - the so-called observer (lt).
 The brain is not an indivisible object; it is made up of indivisible particles.
 What are you in the brain? Answer: the carrier of consciousness can only be a single indivisible particle.
 It is not possible to choose multiple particles, as they are separate particles.
 This means that in the brain, any particle can be replaced with an identical one, and you wouldn't notice a difference, but if the central particle is replaced, your "self," being removed from the brain, would cease to feel anything.
-The lifeticle is indivisible. If we assume that the lifeticle consists of several particles, then, just like with an organism, the division could continue, and the other particles would be external to the lifeticle.
+The lt is indivisible. If we assume that the lt consists of several particles, then, just like with an organism, the division could continue, and the other particles would be external to the lt.
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/2.png" width="250">
 
@@ -43,12 +43,12 @@ The reticular formation is one of the ancient part of the brain from an evolutio
 The central part of the brain is either the reticular formation, the periaqueductal gray matter (where streams from other areas converge), or another adjacent region.
 Without the brain's electrical activity, a person feels nothing.
 Qualia cannot be explained or expressed through anything else, which means it is something fundamental.
-If the lifeticle does not exist, then there is nothing that feels, nothing for the signals to converge on as a unified formed representation of the world (qualia from the eye and other sense organs), the binding problem arises.
-The lifeticle can be described as a particle capable of qualia - this is its property, fundamentally distinct from the rest of the world, and this is life: a living particle (life+particle - lifeticle, lt).
+If the lt does not exist, then there is nothing that feels, nothing for the signals to converge on as a unified formed representation of the world (qualia from the eye and other sense organs), the binding problem arises.
+The lt can be described as a particle capable of qualia - this is its property, fundamentally distinct from the rest of the world, and this is life: a living particle (life+particle - lt).
 
 To the question of whether there can be another life after death - the answer is: if there is nothingness after death, then that same nothingness has already existed before birth.
-The state of death of the lifeticle before birth is no different from the state of death after the destruction of the organism.
-The lifeticle had already experienced a state of death prior to their birth, and yet they were born.
+The state of death of the lt before birth is no different from the state of death after the destruction of the organism.
+The lt had already experienced a state of death prior to their birth, and yet they were born.
 What prevents the particles from assembling again in another form or similarly?
 Physical laws do not prohibit what has already happened according to these very same physical laws.
 In nature, there is a phenomenon known as the cycle of carbon and other elements.
@@ -65,7 +65,7 @@ However, destruction is merely the movement of atoms, not instantaneous, and the
 Particles continue to remain in the brain.
 If we consider the moment of loss of consciousness, a person can feel nothing during sleep or fainting as well.
 Theoretically, recovery is possible from any level (not referring to technical feasibility at this time).
-One might assume that death is the separation of surrounding atoms from the lifeticle, but for whom or for what, and why should that be considered death?
+One might assume that death is the separation of surrounding atoms from the lt, but for whom or for what, and why should that be considered death?
 If in a religious sense there are angels, what happens if no one comes? But there is no reason to believe such angels exist.
 If we are in a virtual reality, then the computer in the base reality must oversee this, but what if it doesn't?
 But in base reality, we could question - are we in a virtual reality?
@@ -73,16 +73,16 @@ What makes this question lead nowhere and be meaningless.
 This means there is no physical moment of death.
 Death is the disintegration of the organism.
 What the organism consists of continues to exist in the world.
-The lifeticle can find itself in a new organism.
+The lt can find itself in a new organism.
 Then after death, a new life is possible.
 
 ---
 
-The idea of the lifeticle implies that reverse transplantation is possible.
-If physical laws allow it, the lifeticle can be taken from a dying organism and placed into another one, and its life will continue.
+The idea of the lt implies that reverse transplantation is possible.
+If physical laws allow it, the lt can be taken from a dying organism and placed into another one, and its life will continue.
 This provides an unlimited lifespan.
 
-It is possible that life for the lifeticle happens once every million, or even billion, years.
+It is possible that life for the lt happens once every million, or even billion, years.
 The longer the time, the greater the chance of being born again.
 But there is a huge problem - there remains the possibility of pain and unhappiness.
 
@@ -141,12 +141,12 @@ But this could leave alien life in a locked state if humanity goes extinct, pote
 
 ---
 
-What if the universe in the future can no longer sustain life or generate qualia for the lifeticle?
+What if the universe in the future can no longer sustain life or generate qualia for the lt?
 
 One of such variants is the variant of dark energy, in which in the distant future dark energy will start expanding space more and more strongly, and so strongly that atomic structures will no longer be able to hold themselves together. 
 It is a time when life will no longer be possible, and the universe will enter eternal expansion.
 
-Since there is no such electronic activity around the lifeticle after death as there is in the brain, nothing is felt after death, and the next life begins instantly. Even if millions of years have passed.
+Since there is no such electronic activity around the lt after death as there is in the brain, nothing is felt after death, and the next life begins instantly. Even if millions of years have passed.
 If nothing is felt, then this time effectively does not exist for you.
 Even during life, the flow of time can feel slower or faster, while in dreamless sleep, time passes instantly.
 
@@ -196,7 +196,7 @@ Within a week, neuronal degradation will not cause any displacement; the brain w
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/6.png" width="120">
 
 And you wouldn't want to be born, or have your relatives be born, as a grasshopper or something worse.
-Lifeticle does not choose who to be born as and it does not retain memory, it does not have such functions.
+Lt does not choose who to be born as and it does not retain memory, it does not have such functions.
 If there were certainty about the positivity of the next life, there would be no need to worry about it so much.
 Denying cryonics to the deceased is a rejection of a life lasting hundreds of years in favor of vast uncertainty.
 Cryonics becomes a moral obligation.
@@ -209,13 +209,13 @@ Structurally, consciousness in the brain consists of:
 1) A functional part of the brain without perception/sensations/qualia/phenomenal consciousness, includes memory
 2) Phenomenal consciousness - the sum of qualia
 3) Qualia includes the sense of "self"
-4) Lifeticle - the real "self"
+4) Lt - the real "self"
 
 The integrity of the brain in cryonics may, perhaps, be secondary.
 Only the brain’s hermeticity is important.
-The question is whether the lifeticle can be found and what it actually is.
+The question is whether the lt can be found and what it actually is.
 It could be a form of dark matter or something entirely unknown.
-If there are many lifeticles in the brain, it may be impossible to determine which one was primary and alive (the others may have been inactive).
+If there are many lts in the brain, it may be impossible to determine which one was primary and alive (the others may have been inactive).
 
 ---
 
@@ -238,15 +238,15 @@ This concept of phenomenal consciousness does not contradict the laws of physics
 If it is accepted as correct, there will be no reason to think otherwise.
 Once adopted, society will not deviate from it.
 Only discoveries in the field of physics can refine this concept.
-The lifeticle must have physical properties; otherwise, it could not maintain its position during motion.
+The lt must have physical properties; otherwise, it could not maintain its position during motion.
 And in the future, scientists may be able to come closer to the mystery of consciousness and the question of the central particle, and answer the questions posed in the theory.
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/8.png" width="250">
 
 At one time, people struggled to understand the motion of planets, and there were various ideas. When the correct understanding of their motion was established, other ideas fell away as less accurate.
-It is unclear why the idea of the lifeticle did not become the main focus earlier. It is simpler, and in some ways, even more banal, in contrast to the absurd notion of flying angels and a religious paradise.
+It is unclear why the idea of the lt did not become the main focus earlier. It is simpler, and in some ways, even more banal, in contrast to the absurd notion of flying angels and a religious paradise.
 The human body is made of something, then that something does not disappear after death and existed before birth.
-If you, as a lifeticle, did not exist before your birth, then no matter what happened in the world, you could not have come to exist in it.
+If you, as a lt, did not exist before your birth, then no matter what happened in the world, you could not have come to exist in it.
 It is as important to know the theory as it is to know what happens after death and to understand the importance of survival.
 
 In our time, cryonics should become the primary approach in matters of death.  
@@ -322,8 +322,8 @@ Dry ice should only be disposed of in a well-ventilated area or an open outdoor 
 
 Experimental methods for confirming the theory in the research of the brain:
 1) Signal flows for qualia must converge on a single particle
-2) The effect of the lifeticle and information about qualia on the brain
-3) The lifeticle must not be replaced by something else throughout life
+2) The effect of the lt and information about qualia on the brain
+3) The lt must not be replaced by something else throughout life
 
 The theory is a direct consequence of the organism's structure.
 In researching the brain, one must start from the principle of maximum divisibility, meaning that the brain consists of indivisible particles and that the carrier of consciousness is located somewhere in the brain (see the section on the necessity of the carrier of consciousness).
@@ -344,17 +344,17 @@ The following steps must be carried out for research:
 5) Research random quantum processes associated with qualia; this will make it possible to determine information coming from qualia and how reverse influence of qualia affects the brain
 6) Researching the reverse influence will make it possible to determine how exactly phenomenal consciousness became entrenched in evolution
 7) Identify a shared node for vision and hearing, which is activated without vision and sound
-8) Assess whether particles in this node are replaced during life to exclude lifeticle candidates
+8) Assess whether particles in this node are replaced during life to exclude lt candidates
 9) Determination of how exactly the brain sets the frame rate of consciousness and collapses
-10) Depending on the structure, this may help determine the location of the lifeticle
+10) Depending on the structure, this may help determine the location of the lt
 11) Removing particles from the central node can show whether this changes reverse influence in the form of random processes
 12) Further help may be provided by researching the coding of the node structure in DNA
 13) Researching the node in other species, a different type of node may show a difference that allows to exclude inappropriate particles
-14) Determine the exact properties of the lifeticle via quantum interactions
+14) Determine the exact properties of the lt via quantum interactions
 
 **Orch OR theory**
 
-The Orch OR theory of consciousness (Orchestrated Objective Reduction) by Penrose and Hameroff coincides with the lifeticle theory in several aspects:
+The Orch OR theory of consciousness (Orchestrated Objective Reduction) by Penrose and Hameroff coincides with the lt theory in several aspects:
 1) Phenomenal consciousness is not located in neurons, but is related to quantum phenomena
 2) The second method of generating qualia
 3) A solution to the problem of pointwise binding (the issue is discussed in the section on the connection between qualia and the brain)
@@ -365,7 +365,7 @@ Supporters of the quantum theory also include Federico Faggin and Giacomo Mauro 
 
 **CEMI theory**
 
-The electromagnetic conscious CEMI theory (Conscious Electromagnetic Information) makes certain correspondences/similarities with the lifeticle theory:
+The electromagnetic conscious CEMI theory (Conscious Electromagnetic Information) makes certain correspondences/similarities with the lt theory:
 1) Phenomenal consciousness is not located in neurons
 2) The 3rd method of generating qualia
 3) Solving qualia size (the issue is discussed in the section on the connection between qualia and the brain)
@@ -407,19 +407,19 @@ Qualia without the so-called observer lead to the same problem - why do you live
 The absence of the so-called observer leads to the problem of temporal binding, which raises the question of why qualia from the past continue to be experienced in the future.
 The question includes both movement in space on a moving planet and connections between frames of phenomenal consciousness, including sleep and anesthesia.  
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/time.png" width="400">  
-To say that the particle lifeticle, which is the carrier of consciousness, the so-called observer, cannot exist is equivalent to saying that there is no carrier of consciousness in the collection of particles forming the brain.  
+To say that the particle lt, which is the carrier of consciousness, the so-called observer, cannot exist is equivalent to saying that there is no carrier of consciousness in the collection of particles forming the brain.  
 The idea of the emergence of the carrier of consciousness has problems: there will be a contradiction if some particle is replaced.
 If two brains have two identical emergent carriers of consciousness, then again we come to the problem of choosing the brain.
 If the particles are replaced with others with the same emergence, the carrier of consciousness will stop receiving qualia, which contradicts the idea of emergence.
 Emergence is about properties that can be obtained through modeling. Identity to the carrier of consciousness is not about properties, but about what the carrier physically is.
 The ability to create an identity implies the possibility of creating an identical one, which means no difference exists between them and leads to the problem of how the brain selects between them.
-The uniqueness of the lifeticle is fundamental, cannot be artificially generated, and is analogous to the no-cloning theorem.
+The uniqueness of the lt is fundamental, cannot be artificially generated, and is analogous to the no-cloning theorem.
 Without uniqueness, there would be no connection with the current brain, just as there is no connection with another brain that is not one’s own.  
 Qualia have a parameter of location relative to a reference point in space, where the center is located at the consciousness bearer.  
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/position.png">  
 To say that particles with qualia properties do not exist is to say that the organism is not consist of particles, or qualia do not exist, or are not connected with particles.
 The organism consists of particles, and the phenomenon of qualia exists; one must be connected with the other. The theory does not introduce anything new, but connects one with the other.  
-The philosophical term "indivisibility of consciousness" is explained by the indivisible so-called observer, the bearer of consciousness, the lifeticle.
+The philosophical term "indivisibility of consciousness" is explained by the indivisible so-called observer, the bearer of consciousness, the lt.
 The fundamentality of qualia means that the ability to experience qualia is also fundamental.
 And it means that the physical phenomena with which qualia is associated are also fundamental, and this is quantum mechanics.  
 Quantum indeterminacy is fundamental and cannot be replicated informationally.  
@@ -449,17 +449,17 @@ A contradiction of what is already known - such as a violation of the law of ene
 **Proof problem**
 
 Dark matter is presumed to exist, despite the lack of direct detection.  
-The problem in the case of the lifeticle is that the properties of qualia cannot be detected directly; only indirect detection is possible.
+The problem in the case of the lt is that the properties of qualia cannot be detected directly; only indirect detection is possible.
 It is problematic to prove the existence of another fundamental phenomenon.
-This is known from the position of the lifeticle itself - the very sensation of visual information without the sensation of "yourself" is only possible if the sensation and the so-called observer exist.  
-Detection of the lifeticle will lead to the question: how to understand that it has the property of qualia and that it is a lifeticle?  
+This is known from the position of the lt itself - the very sensation of visual information without the sensation of "yourself" is only possible if the sensation and the so-called observer exist.  
+Detection of the lt will lead to the question: how to understand that it has the property of qualia and that it is a lt?  
 Since qualia is based on quantum information, qualia cannot be directly detected.
 The simultaneity of frames also adds to the detection problem.
 Experiments in quantum physics take place in an isolated environment and it is unknown whether qualia exists in them, unlike in the brain environment.
 To understand this, it is necessary to research the convergence of signals for qualia and the transition of information to the quantum level, as well as to research the feedback in the form of collapse.
 This is the only way to research qualia and solve the "hard problem of consciousness."
 A possible method might be to scan the central part of the brain in detail or to research how DNA shapes the brain.
-Reasons why there are grounds to consider the lifeticle as existing:
+Reasons why there are grounds to consider the lt as existing:
 1) Solution to the question of non-being before birth
 2) Solution to the question of living in this brain and not another
 3) If we assume that the signals of sound and visual image converge on different particles, then either one or the other would be perceived
@@ -469,7 +469,7 @@ Reasons why there are grounds to consider the lifeticle as existing:
 7) The fundamentality of qualia points to the fundamentality of the property of experiencing qualia, which cannot be emergent or composite and is a property of an indivisible particle
 8) The problem of pointwise binding, size and reverse influence of qualia are related to quantum laws, which in itself points to a particle
 
-The theory of phenomenal consciousness must answer these questions, and you can arrive at the lifeticle model in different ways by answering these questions.
+The theory of phenomenal consciousness must answer these questions, and you can arrive at the lt model in different ways by answering these questions.
 Departure from this model leads to contradictions and a lack of answers to these questions.
 If we assume that if we collect the particles of the disintegrated brain back and this returns the phenomenal consciousness and the so-called observer, then it is a matter of particles, and if it does not return, then it is not a matter of particles and something else that was attached to the organism during life did not return.
 Attachment to an organism is a physical interaction, the assumption of non-return of something physical to the idea of particles returning back is self-contradictory.
@@ -486,7 +486,7 @@ The binding problem means that signals for qualia must converge on a single part
 If the signals do not converge but are located close to each other at the atomic level, then they are not bound.
 The visual information from the eye - it has a left part and a right part, and they seem to be separate, but if they were truly separate, we would again face the binding problem.
 This can be called the problem of pointwise binding.
-The problem concerns both the binding of qualia to each other and their binding to the lifeticle.
+The problem concerns both the binding of qualia to each other and their binding to the lt.
 Introducing the particle, the receiver of qualia, does not create a new problem of how it receives signals - the problem already exists with qualia even without the particle.
 Quantum entanglement solves this.
 
@@ -494,7 +494,7 @@ Quantum entanglement solves this.
 
 **Qualia methods**
 
-1) It can be imagined that electrical activity near the lifeticle serves as a generator.
+1) It can be imagined that electrical activity near the lt serves as a generator.
 The visual image from the eye, in terms of the amount of information, not only has an enormous size in megapixels and megabytes, but also has depth and brightness.
 To generate the image, signals must transmit information at a megabit speed.
 This creates a simultaneity problem; the time of the event must also be transmitted, and the method is not the same in the reverse direction of time.
@@ -502,7 +502,7 @@ This contradicts the fact that an atom cannot store a lot of different informati
 It does not resolve the speed issue and leads to the overlap of qualia.
 It is not realistic and is provided only as an example of a search.
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/method.png">
-2) Particles are quantum entangled with each other, the electrical activity around them creates qualia in them, which is felt by the lifeticle connected to them.
+2) Particles are quantum entangled with each other, the electrical activity around them creates qualia in them, which is felt by the lt connected to them.
 The method corresponds to the Orch OR theory (Orchestrated Objective Reduction) by Penrose and Hameroff.
 In Orch OR, the issue of speed is addressed through frames caused by the collapse of the wave function.
 The method is the main option under consideration.
@@ -540,15 +540,15 @@ To remove information from a superposition, a collapse is required; in order for
 Reasons why qualia might be thought to occur at the moment of collapse, rather than the quantum state itself:
 1) There would be temporal flicker due to the gradual formation of the quantum state
 2) Frame rate adjustment would be impossible
-3) The no-cloning theorem might be violated, though this may not be an issue if the lifeticle is part of the entangled state or if qualia follow their own laws
+3) The no-cloning theorem might be violated, though this may not be an issue if the lt is part of the entangled state or if qualia follow their own laws
 4) Mismatch between the timing of qualia and its feedback influence. Not a critical flaw, but a possible drawback
 
 **Reverse influence**
 
-If the lifeticle could not transmit information to the environment, a person would not be able to speak about the existence of qualia.
-If you take a lifeticle and a random world around it that creates random sensations, there would be no reason why a positive-feeling structure could develop without the lifeticle's influence on the environment.
-This means that the lifeticle can influence its surroundings and transmit information.
-The influence of the lifeticle on the organism means that it affects evolution. Thus, evolution already includes the result of feedback influence, just as it includes pain.
+If the lt could not transmit information to the environment, a person would not be able to speak about the existence of qualia.
+If you take a lt and a random world around it that creates random sensations, there would be no reason why a positive-feeling structure could develop without the lt's influence on the environment.
+This means that the lt can influence its surroundings and transmit information.
+The influence of the lt on the organism means that it affects evolution. Thus, evolution already includes the result of feedback influence, just as it includes pain.
 Without feedback influence, evolution could not have produced a system capable of integrating signals to generate a visual image.
 Such integration requires feedback from the very result being generated by these signals.
 If initially the direction of the feedback from pain was random, then a random mutation that causes avoidance to increase the chance of survival would be fixed in DNA, reinforcing the effect.
@@ -565,7 +565,7 @@ This means that qualia cannot stand behind non-random processes and is connected
 2) At the moment of sensation, the influence of qualia on the collapse of the wave function
 
 It can be assumed that in the case of negative qualia, the stronger the pain, the stronger the influence on random quantum processes.
-Determining whether free will exists at the level of the lifeticle is only possible by researching reverse influence.
+Determining whether free will exists at the level of the lt is only possible by researching reverse influence.
 The transmission of information about the visual image indicates that reverse influence at least operates at the moment of qualia and collapse itself.
 Physicists may begin to hypothesize about which quantum phenomenon this reverse influence could be.
 
@@ -607,10 +607,10 @@ This does not violate the no-cloning theorem, since the quantum state is destroy
 **Problem of encoding**
 
 The way information is encoded for generating qualia and the fact that it is not identical to the qualia itself.
-The issue of encoding and decoding appears as a problem of conversion, where the decoder is on the side of the lifeticle.
-The decoder cannot be on the side of the lifeticle, since it is a structure consisting of parts.
-The solution to the problem of the decoder on the lifeticle side would be the existence of qualia without a lifeticle, in which case an object that is qualia exists but is not perceived by anyone.
-For example: If qualia is a quantum state, then the quantum state exists without the lifeticle.
+The issue of encoding and decoding appears as a problem of conversion, where the decoder is on the side of the lt.
+The decoder cannot be on the side of the lt, since it is a structure consisting of parts.
+The solution to the problem of the decoder on the lt side would be the existence of qualia without a lt, in which case an object that is qualia exists but is not perceived by anyone.
+For example: If qualia is a quantum state, then the quantum state exists without the lt.
 Then the generation of qualia is the construction of a qualia-object from qualia-elements.
 And instead of the question of how qualia are generated, the question arises: what is the property of qualia in a physical object, or what is a qualia-object that has the property of physical interaction.
 The correct question may be: not what physical law creates qualia, but what law of qualia allows it to influence the physical.
@@ -624,7 +624,7 @@ The encoding problem - the explanatory gap, is not resolved because qualia are f
 Since the brain determines the informational part of phenomenal consciousness, it is possible to establish informational correspondence.  
 Qualia is energy in a quantum state's informational state.
 Since the quantum state is formed gradually, while a frame of phenomenal consciousness is triggered by the collapse, this provides grounds to assume that a qualia-object may exist independently as an integrated structure.
-There should be no modification of information between the quantum state and the lifeticle, since it is the brain that tunes qualia and it cannot tune beyond the quantum level.
+There should be no modification of information between the quantum state and the lt, since it is the brain that tunes qualia and it cannot tune beyond the quantum level.
 At the same time, information alone could not create pain/negative/positive qualia; it must be defined by opposites.
 The strength of pain must depend on the number of signals and energy, otherwise any level of pain could be set by just a parameter.  
 One might imagine pain as antimatter, but this does not happen in the brain and there is no option without an opposite.  
@@ -655,7 +655,7 @@ But other problems remain:
 2) Distances and other particles between entangled particles would result in voids between points in the visual image
 3) There would be noticeable steps the size of the minimum pixel size, which would lead to noticeable steps when moving the image
 4) Pain in the arm can have a free 3D location depending on the position of the arm, different parts of the generator would be required for 1 place of the arm when it moves
-5) The lifeticle would need to be held at an angle to qualia space to match the qualia coordinates
+5) The lt would need to be held at an angle to qualia space to match the qualia coordinates
 
 Means that the qualia coordinate is specified by a parameter, and the generator shape can be arbitrary, not corresponding to the qualia coordinates.
 Due to the simultaneity of frames, the number of particles participating in the generation of the quantum state must be no less than the number of qualia units.
@@ -752,7 +752,7 @@ Other types of qualia can also have a summed extent.
 **Artificial intelligence**
 
 Artificial intelligence is not alive and does not have qualia, meaning it cannot have complete information about the world without the participation of life.
-If a lifeticle with qualia generation is placed in the center of AI, only then will it be possible, and it will be something like a living artificial intelligence.
+If a lt with qualia generation is placed in the center of AI, only then will it be possible, and it will be something like a living artificial intelligence.
 
 **Ethics**
 
@@ -771,9 +771,9 @@ For information, there are qualia, and this complicates the concept of informati
 
 **Time flow**
 
-It is possible that in the state of death, there may be activity around the lifeticle that generates qualia, and while being dead, something might be felt, and time does not pass instantly.
-This depends on the surrounding environment; in the case of a prolonged environment generating qualia, it resembles the next life. However, in the case of the infinite expansion of the universe around the lifeticle, nothing alike, and this also resets time.
-This option may not work in a cyclic universe, as there is no infinite expansion, and activity that generates qualia may remain around the lifeticle.
+It is possible that in the state of death, there may be activity around the lt that generates qualia, and while being dead, something might be felt, and time does not pass instantly.
+This depends on the surrounding environment; in the case of a prolonged environment generating qualia, it resembles the next life. However, in the case of the infinite expansion of the universe around the lt, nothing alike, and this also resets time.
+This option may not work in a cyclic universe, as there is no infinite expansion, and activity that generates qualia may remain around the lt.
 It is possible that during sleep, one might feel something but not remember it. The sensation of time passing instantly could be the result of the lack of memory.
 As a counterargument - in sleep, there are no random sensations, and the speed of time can vary.
 If a person does not want to experience sensations, disabling the generation of qualia by the brain is not a solution; a minimum level of qualia is necessary for time not to pass instantly.
@@ -799,7 +799,7 @@ But they are definitely not located in the exact space where they are felt - oth
 It can be assumed that they are located at the atomic scale; for example, a distance of 1 meter would correspond to 1 thousandth of an atom, and a sensation at a distance of 1 kilometer would correspond to the size of an atom.
 In this case, you cannot feel anything further than a kilometer.
 Qualia have a real spatial location, but their size is extremely small - comparable to that of a molecule.
-As you grow older, objects are felt to be of a different size, and even if there is a separate area of space around the lifeticle and the sizes of sensations are larger, then they still do not correspond to real sizes, but are relative.
+As you grow older, objects are felt to be of a different size, and even if there is a separate area of space around the lt and the sizes of sensations are larger, then they still do not correspond to real sizes, but are relative.
 Furthermore, one's own spatial domain is a more complex structure.
 An experiment on creating pain at a distance and researching a qualia generator could help clarify the question and the distance limit.
 
@@ -820,10 +820,10 @@ The image from the eye has the left part on the left and the right part on the r
 It can be visualized with eyes closed.
 It is possible to shift the image to the right, so that its left part appears in the center, the center part on the right, and the right part even further to the right.
 The fact that qualia have a position means that the qualia field has a direction toward which its center is oriented.
-If the position of qualia is set by spatial coordinates, then the rotation angles of the lifeticle's orientation must be preserved in accordance with the spatial rotations.
+If the position of qualia is set by spatial coordinates, then the rotation angles of the lt's orientation must be preserved in accordance with the spatial rotations.
 If qualia are oriented according to the brain, then the angle of the qualia field matches the brain; otherwise, it does not.
 If the position of qualia is set by a parameter, then the angle of the field may not match the brain and may be angled, sideways, or inverted.
-Maintaining the angle of the lifeticle requires separate functionality, which suggests that the coordinate of qualia is most likely set by a parameter, not a spatial coordinate.  
+Maintaining the angle of the lt requires separate functionality, which suggests that the coordinate of qualia is most likely set by a parameter, not a spatial coordinate.  
 The direction of the qualia field is similar to the spin of a particle.
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/rotation.png" width="250">
@@ -868,17 +868,17 @@ This highlights the importance of creating an organization to monitor artificial
 
 ---
 
-## Part 8. Aspects of lifeticle
+## Part 8. Aspects of lt
 
 **The term life**
 
 The term "Life" lacks a precise definition and will be redefined.
-"Life" will mean the presence of phenomenal consciousness, the so-called observer, or the lifeticle.
+"Life" will mean the presence of phenomenal consciousness, the so-called observer, or the lt.
 Without it, an organism will be referred to as a biorobot.
 
 **Meaning of life**
 
-A violation of the internal causal chain in the existence of the lifeticle: if there were an external cause for its creation, this would imply that the lifeticle already exists, i.e., it is its own cause for existence - as if it created itself, which is a paradox.
+A violation of the internal causal chain in the existence of the lt: if there were an external cause for its creation, this would imply that the lt already exists, i.e., it is its own cause for existence - as if it created itself, which is a paradox.
 This also means that it cannot not exist.
 This also answers the question of the meaning of life.
 The purpose of the lifticle's creation is the meaning of life, but since the lifticle's existence is a paradox, the meaning of life lies in the paradox.
@@ -888,28 +888,28 @@ At the same time, there are directions of life: happiness/positive qualia, pain/
 
 **Status**
 
-In the status of death, it might be indicated: central particle/lifeticle: saved/lost.
+In the status of death, it might be indicated: central particle/lt: saved/lost.
 
-**Fate of the lifeticle**
+**Fate of the lt**
 
 If the deceased could not be cryonized, in the case of cremation, their ashes can be scattered either on the ground or into the sea.
 It is preferable to scatter the ashes on land, as the probability of being reborn as a terrestrial life form is higher than as an aquatic one - likely a comparison of one in a million to one in a billion.
-However, the lifeticle may potentially escape in the smoke during cremation, creating ambiguity in this recommendation.
+However, the lt may potentially escape in the smoke during cremation, creating ambiguity in this recommendation.
 Despite the ambiguity, this factor redefines the optimal location for scattering the ashes, and the answer is - on land.
-If the organism was not cryonized and if physical laws permit and the theory is proven, instead of memorial ashes, the lifeticle could be stored in a mold.
+If the organism was not cryonized and if physical laws permit and the theory is proven, instead of memorial ashes, the lt could be stored in a mold.
 
 **Biorobots**
 
-The answer to what a lifeticle is and how qualia are generated will also determine whether viruses are considered alive or biorobots.
+The answer to what a lt is and how qualia are generated will also determine whether viruses are considered alive or biorobots.
 
 **Atom**
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/atom.png" width="100">
 
 In the brain, no other attached particles occupying volume have been found.
-This may suggest that the lifeticle is located within an atom.
-In this case, the lifeticle does not need to be moved to appear in the brain during its formation.
-It is more difficult for evolution to place the lifeticle in the brain, but if it resides in the atom, this additional complexity is unnecessary.
+This may suggest that the lt is located within an atom.
+In this case, the lt does not need to be moved to appear in the brain during its formation.
+It is more difficult for evolution to place the lt in the brain, but if it resides in the atom, this additional complexity is unnecessary.
 
 **Ship of theseus**
 
@@ -920,32 +920,32 @@ In the case of a living organism, the key factor is the subject (the main partic
 **Stars**
 
 Carbon atoms are synthesized in stars.  
-If the lifeticle is located in an atom or was in a star for some other reason, and if the star's environment generates qualia for the lifeticle, then we have already had "lives" inside stars with random and unknown levels of qualia.
+If the lt is located in an atom or was in a star for some other reason, and if the star's environment generates qualia for the lt, then we have already had "lives" inside stars with random and unknown levels of qualia.
 A similar question applies to the early universe - the first hundreds of thousands of years before the epoch of recombination, when the universe became transparent to electromagnetic radiation.
-If one fails to preserve their lifeticle, the absorption of Earth by the Sun could result in remaining within the Sun’s structure for billions of years - and it is unknown whether qualia exist there or what their level might be; potentially extremely adverse.
+If one fails to preserve their lt, the absorption of Earth by the Sun could result in remaining within the Sun’s structure for billions of years - and it is unknown whether qualia exist there or what their level might be; potentially extremely adverse.
 This is one of the reasons cryonics is necessary - at least until the nature and level of qualia in the solar environment is properly studied.
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/star.png" width="150">
 
 **Multiplicity of consciousness**
 
-The idea of multiple consciousnesses, where many lifeticles exist in the brain and experience the same qualia, requires identical qualia to be generated for several lifeticles.
-This idea is structurally more complex, both in terms of evolution and considering the influence of the lifeticle itself.
+The idea of multiple consciousnesses, where many lts exist in the brain and experience the same qualia, requires identical qualia to be generated for several lts.
+This idea is structurally more complex, both in terms of evolution and considering the influence of the lt itself.
 There are no reasons for such complexity; the idea is evolutionarily improbable.
 In the case of the division of the brain into two parts, if there are actually two consciousnesses, then this means that there are two centers in the brain and two consciousnesses were there before the division.
 If the recipient of the wave function is particles that are part of the wave function, then it is different at different moments, both in the type and in the quantity of qualia, and therefore in the number of participating particles.
-Then some lifeticles would live life only during certain qualia, for example, only when there is a specific pain, which looks self-contradictory.
-The variant in which several lifeticles are the recipients is possible, but also redundant and evolutionarily complex.  
-The question is also related to the no-cloning theorem, since one quantum state is inhabited by 2 lifeticles, but the theorem is not necessarily violated if both lifeticles were part of the wave function.
-If at the moment of collapse a qualia object is created from the wave function, then for two lifeticles 2 qualia objects should be created, which contradicts the no-cloning theorem.
-The combination of reverse influence from two lifeticles in one collapse could be conflicting.
-Even if in quantum phenomenal consciousness the recipients are not limited to a single particle, the no-cloning theorem indicates such a possibility by introducing a lifeticle.
-This means that the lifeticle can be determined from quantum laws.
+Then some lts would live life only during certain qualia, for example, only when there is a specific pain, which looks self-contradictory.
+The variant in which several lts are the recipients is possible, but also redundant and evolutionarily complex.  
+The question is also related to the no-cloning theorem, since one quantum state is inhabited by 2 lts, but the theorem is not necessarily violated if both lts were part of the wave function.
+If at the moment of collapse a qualia object is created from the wave function, then for two lts 2 qualia objects should be created, which contradicts the no-cloning theorem.
+The combination of reverse influence from two lts in one collapse could be conflicting.
+Even if in quantum phenomenal consciousness the recipients are not limited to a single particle, the no-cloning theorem indicates such a possibility by introducing a lt.
+This means that the lt can be determined from quantum laws.
 
 **Problem of indivisible structure**
 
-An image can disappear, which means it is not part of the lifeticle but rather some external functionality.
-And the lifeticle exerts a reverse influence.
+An image can disappear, which means it is not part of the lt but rather some external functionality.
+And the lt exerts a reverse influence.
 Such a particle appears to resemble a structure with its own functionality - otherwise, it wouldn't work, and this creates the problem of indivisible structure.
 This problem also exists in elementary particles: an electron has properties such as momentum (direction and speed), charge, spin, interactions with other particles, etc.
 If an elementary particle had no properties, it would exist without interacting with the world and would not be part of it.
@@ -954,40 +954,40 @@ Perhaps this is a fundamental requirement; otherwise, reality would not form.
 
 **Elementary particles**
 
-When questioning what the lifeticle is, one might ask: are the actions of elementary particles actually living actions rather than automatic ones? Several points argue against this.
+When questioning what the lt is, one might ask: are the actions of elementary particles actually living actions rather than automatic ones? Several points argue against this.
 They perform actions, but phenomenal consciousness does not perform any such actions.
 Space itself is something. It is difficult to imagine that the elements composing space are alive, or that qualia could be directed to such elements.
 Qualia appear as a non-living, automatic mechanism.
 This shows that reality functions independently of consciousness.
-As a counterargument, the function of lifeticle attachment is automatic.
-The fact that the lifeticle has physical properties in some way brings the world/reality and consciousness closer together, which may raise the question of do elementary particles have the property of qualia.
+As a counterargument, the function of lt attachment is automatic.
+The fact that the lt has physical properties in some way brings the world/reality and consciousness closer together, which may raise the question of do elementary particles have the property of qualia.
 The theory is compatible with panpsychism in relation to elementary particles, if this does not contradict quantum field theory, since particles are based on fields.
-However, there is no such contradiction in string theory; this may mean that the lifeticle has already been discovered, but the property of qualia has not been identified.
-In a completed physical theory, qualia must be present either as a discovered lifeticle particle or as a defined property of an elementary particle.
+However, there is no such contradiction in string theory; this may mean that the lt has already been discovered, but the property of qualia has not been identified.
+In a completed physical theory, qualia must be present either as a discovered lt particle or as a defined property of an elementary particle.
 
 **Philosophical zombie**
 
-A philosophical zombie is not physically identical to a human since it lacks the lifeticle, which has physical properties or the generation of qualia for it.
+A philosophical zombie is not physically identical to a human since it lacks the lt, which has physical properties or the generation of qualia for it.
 
 **Beginning of existence**
 
-If the moment when the lifeticle begins to exist is neither the moment of birth nor during the nine months of pregnancy, then what moment could it be?
+If the moment when the lt begins to exist is neither the moment of birth nor during the nine months of pregnancy, then what moment could it be?
 In reverse time, it cannot be infinite - that would be a paradox: no matter how far back time is rewound, there would still be more time remaining. But this would also mean that an infinite amount of time has already passed, which is impossible.
-The answer implies that the universe has a beginning of time, and one might assume that this is also the beginning of the lifeticle's existence.
+The answer implies that the universe has a beginning of time, and one might assume that this is also the beginning of the lt's existence.
 The moment of beginning at birth makes no sense, since the organism is built from particles that existed previously; birth is merely the relocation of specific atoms or particles from one position to another.
 Some physicists suggest that in reverse time, time itself is circular at its origin, making it potentially infinite - it loops back on itself.
 In one direction, there is a starting point, while in the other, an endless circular loop. Such an idea somewhat addresses the question of the universe's starting point in time.
 
-**Other lifeticles**
+**Other lts**
 
-How is it possible that there are other lifeticles with the same properties? Does this mean they share something in common - a shared paradox? But they are separate particles.
-A possible solution would be if the universe has an end of time, and at the end of time, the lifeticle moves backward in time and lives other lives.
+How is it possible that there are other lts with the same properties? Does this mean they share something in common - a shared paradox? But they are separate particles.
+A possible solution would be if the universe has an end of time, and at the end of time, the lt moves backward in time and lives other lives.
 This would mean that if you hit someone, you will either feel the pain in their place or have already felt it earlier.
-The problem with this idea is that the universe would need to have an endpoint, which would also include some function that transfers the lifeticle back in time.
+The problem with this idea is that the universe would need to have an endpoint, which would also include some function that transfers the lt back in time.
 
-**Number of lifeticles**
+**Number of lts**
 
-Is the number of lifeticles in reality limited? The diameter of the universe is at least 40 times larger than the observable universe, and it is unknown whether it is infinite.
+Is the number of lts in reality limited? The diameter of the universe is at least 40 times larger than the observable universe, and it is unknown whether it is infinite.
 If it is infinite, then the number of subjects would also be unlimited.
 The question of whether other universes exist is equivalent to asking whether there is more space with matter somewhere else in the universe if its size is finite.
 
@@ -1027,7 +1027,7 @@ The temporal dynamics are set by the brain’s adjustment of quantum state frame
 
 ## Part 10. Phenomenal consciousness theory comparison
 
-|                                                 | IIT and inf. theories | CEMI  | Orch OR | Lifeticle |
+|                                                 | IIT and inf. theories | CEMI  | Orch OR | Lt        |
 | :---:                                           | :---:                 | :---: | :---:   | :---:     |
 | Compatibility with the principle of locality    | -                     | +-    | `+`     | `+`       |
 | Solution to the binding problem                 | -                     | +-    | +-      | `+`       |
@@ -1055,15 +1055,15 @@ Solution the binding problem: No model of qualia signal convergence or central p
 **Interpretations of quantum mechanics**
 
 The influence of qualia on the collapse of the wave function negates Everett's many-worlds interpretation of quantum mechanics.
-It is also poorly compatible with lifeticles, since a lifeticle cannot be copied.
-The idea that a lifeticle exists simultaneously in two or more worlds and lives parallel lives in parallel worlds is meaningless.
-Copying the lifeticle would constitute a repeated creation of a paradox caused by an external factor.
-It can be conceptualized as the presence of a unique infinite number within the lifeticle, which cannot be replicated.
+It is also poorly compatible with lts, since a lt cannot be copied.
+The idea that a lt exists simultaneously in two or more worlds and lives parallel lives in parallel worlds is meaningless.
+Copying the lt would constitute a repeated creation of a paradox caused by an external factor.
+It can be conceptualized as the presence of a unique infinite number within the lt, which cannot be replicated.
 This is analogous to the no-cloning theorem, with the distinction that the quantum state in this case is not externally generated.
-Either the lifeticle already existed in this world before the split (which would mean there were multiple lifeticles occupying the same place at once), or lifeticles do not exist in other worlds, which requires that when worlds split, lifeticles go into only one world - or that the interpretation itself is incorrect.  
+Either the lt already existed in this world before the split (which would mean there were multiple lts occupying the same place at once), or lts do not exist in other worlds, which requires that when worlds split, lts go into only one world - or that the interpretation itself is incorrect.  
 Human consciousness, created from the collapse of the wave function, cancels the von Neumann-Wigner interpretation, since it is already limited by the collapse of its qualia wave function.
 Qualia is associated with collapse, and only certain information prepared by the brain enters qualia.
-Even if lifeticle can cause a collapse of the wave function in the brain, it only causes a collapse of this qualia wave function, but not in the experiment.
+Even if lt can cause a collapse of the wave function in the brain, it only causes a collapse of this qualia wave function, but not in the experiment.
 This cancels the connection of consciousness with the collapse in the experiment in the measuring device.
 
 **Wolfram's theory**
@@ -1079,4 +1079,4 @@ This may also require two separate spaces - the hypergraph space and the qualia 
 
 **CEMI theory**
 
-For the correctness of the theory, information must be transferred to the quantum level, the receiver of which must be the lifeticle.
+For the correctness of the theory, information must be transferred to the quantum level, the receiver of which must be the lt.
