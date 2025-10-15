@@ -1,4 +1,4 @@
-LT theory of phenomenal consciousness | Survival**
+**LT theory of phenomenal consciousness | Survival**
 
 Lt is a particle that acts as a subject, the so-called observer in the brain, with the following functions:
 1) Perception (Qualia): Visuals, sounds, pain, and other sensations
