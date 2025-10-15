@@ -803,7 +803,7 @@ As you grow older, objects are felt to be of a different size, and even if there
 Furthermore, one's own spatial domain is a more complex structure.
 An experiment on creating pain at a distance and researching a qualia generator could help clarify the question and the distance limit.
 
-<img src="images/distance.png">
+<img src="images/distance.png" width="250">
 
 **Space**
 
@@ -812,7 +812,7 @@ This may mean that qualia cannot participate in 4-dimensional space. Clarifying 
 Space can be distorted according to the theory of relativity. How is this connected to the space of qualia?
 1) The qualia field has its own internal space
 2) The qualia field itself is distorted along with the distortion of space; for example, a massive gravitational wave can distort the image
-<img src="images/wave.png">
+<img src="images/wave.png" width="200">
 
 **Angle of rotation**
 
