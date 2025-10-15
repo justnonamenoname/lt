@@ -784,7 +784,7 @@
 Просмотр с ограниченным обновлением зрительного образа на звук не влияет.
 Проверяется на видео с быстро меняющимися кадрами на большом мониторе, перекрывающем обзор и меняя расстояние до монитора.
 
-https://github.com/justnonamenoname/lttheory/blob/main/images/fps.mp4
+https://github.com/justnonamenoname/lt/blob/main/images/fps.mp4
 
 Внимание
 
