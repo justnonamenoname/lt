@@ -8,7 +8,7 @@ Lt is a particle that acts as a subject, the so-called observer in the brain, wi
 The lt remains in the brain after its death.  
 Phenomenal consciousness is the sum of sensations/qualia. Other brain functions are not part of phenomenal consciousness.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/1.png" width="250">
+<img src="images/1.png" width="250">
 
 ## Part 1. Survival
 Necessity of cryonics
@@ -36,7 +36,7 @@ It is not possible to choose multiple particles, as they are separate particles.
 This means that in the brain, any particle can be replaced with an identical one, and you wouldn't notice a difference, but if the central particle is replaced, your "self," being removed from the brain, would cease to feel anything.
 The lt is indivisible. If we assume that the lt consists of several particles, then, just like with an organism, the division could continue, and the other particles would be external to the lt.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/2.png" width="250">
+<img src="images/2.png" width="250">
 
 The highest electrical activity in the brain occurs in the reticular formation (which persists even during sleep).
 The reticular formation is one of the ancient part of the brain from an evolutionary point of view.
@@ -117,7 +117,7 @@ A virtual reality could be constructed where, in the base reality, people are co
 This is a combination of freedom and non-freedom - a paradise that cannot be left. Such a paradise could be stable.
 And in the event of the sun's death, the population could simply be transferred to another planet, possibly even automatically.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/state.png">
+<img src="images/state.png">
 
 ---
 
@@ -137,7 +137,7 @@ Even if life did not originate on another planet in this galaxy, it might have o
 This risk might mean that humans should fill this galaxy and neighboring galaxies with robots.
 But this could leave alien life in a locked state if humanity goes extinct, potentially leading to the creation of offensive systems.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/3.png" width="250">
+<img src="images/3.png" width="250">
 
 ---
 
@@ -150,7 +150,7 @@ Since there is no such electronic activity around the lt after death as there is
 If nothing is felt, then this time effectively does not exist for you.
 Even during life, the flow of time can feel slower or faster, while in dreamless sleep, time passes instantly.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/4.png">
+<img src="images/4.png">
 
 If the next life never begins, and the universe has entered eternal expansion, what do you experience? Infinity multiplied by zero?
 An infinity passing instantly? This is impossible; time would still remain.
@@ -162,7 +162,7 @@ And the paradox is not encountered.
 
 The mystery seems unsolvable, and it is unclear whether any discoveries in physics will help resolve it.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/5.png" width="200">
+<img src="images/5.png" width="200">
 
 ---
 
@@ -193,7 +193,7 @@ Cryonics centers should exist in cities.
 In the event of an animal's death, if there is no cryonics center in the city, it can be frozen for later transport to another city.
 Within a week, neuronal degradation will not cause any displacement; the brain will remain sealed.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/6.png" width="120">
+<img src="images/6.png" width="120">
 
 And you wouldn't want to be born, or have your relatives be born, as a grasshopper or something worse.
 Lt does not choose who to be born as and it does not retain memory, it does not have such functions.
@@ -228,7 +228,7 @@ The mere fact that they have no connection to telescopes and no calls to researc
 They are not interested in the world and science; they are only interested in their cult.
 The fact that the moment of death does not exist also invalidates the concept of a religious paradise.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/7.png" width="200">
+<img src="images/7.png" width="200">
 
 ---
 
@@ -241,7 +241,7 @@ Only discoveries in the field of physics can refine this concept.
 The lt must have physical properties; otherwise, it could not maintain its position during motion.
 And in the future, scientists may be able to come closer to the mystery of consciousness and the question of the central particle, and answer the questions posed in the theory.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/8.png" width="250">
+<img src="images/8.png" width="250">
 
 At one time, people struggled to understand the motion of planets, and there were various ideas. When the correct understanding of their motion was established, other ideas fell away as less accurate.
 It is unclear why the idea of the lt did not become the main focus earlier. It is simpler, and in some ways, even more banal, in contrast to the absurd notion of flying angels and a religious paradise.
@@ -303,7 +303,7 @@ If there is no cryocenter nearby, the organism must be prepared for transportati
 
 **Dry ice**
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/ice.png" width="200">
+<img src="images/ice.png" width="200">
 
 When handling dry ice, safety precautions must be followed:  
 Do not touch without protective gloves; with gloves, no longer than a few seconds, since the temperature of dry ice is -78°C.  
@@ -316,7 +316,7 @@ Dry ice should only be disposed of in a well-ventilated area or an open outdoor 
 
 ## Part 3. Verification
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/verification.png" width="150">
+<img src="images/verification.png" width="150">
 
 **Experimental methods**
 
@@ -381,11 +381,11 @@ To prove non-fundamentality, it is enough to provide an example of a phenomenon 
 The search for an example of an entity is behind those who wish to attempt to prove that qualia are not fundamental and not unique.  
 In the case of fundamentality, it is impossible to find such an example and prove non-fundamentality.
 If we assume that emergence (the presence of properties in a system that are not inherent in its individual components) can create qualia, signals in the brain must still converge at a single particle via the method of generating qualia; otherwise, a binding problem arises, which makes the question of emergence meaningless.  
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/bind.png" width="400">  
+<img src="images/bind.png" width="400">  
 The properties of emergence can be obtained by modeling, for example: knowing the properties of a water molecule, by modeling a multitude of molecules, we can obtain the properties of water.  
 According to the special theory of relativity, an event at one point cannot cause an instantaneous result at another point, and "now" occurs only at a local reference point.
 According to the principle of locality and the special theory of relativity, a visual image could at most consist of several points.  
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/locality.png" width="250">  
+<img src="images/locality.png" width="250">  
 The simultaneous display of millions of points of a visual image violates the principle of locality, which means that phenomenal consciousness is not constrained by the special theory of relativity; this relates to the problem of pointwise binding.
 It is impossible to derive anything that violates the special theory of relativity from something that obeys it.  
 The problem of pointwise binding requires a separate physical law, which also implies the fundamentality of qualia (the issue is discussed in the section on the connection between qualia and the brain).  
@@ -406,7 +406,7 @@ Informational theories attempting to explain phenomenal consciousness do not ans
 Qualia without the so-called observer lead to the same problem - why do you live the life of this brain and not another?  
 The absence of the so-called observer leads to the problem of temporal binding, which raises the question of why qualia from the past continue to be experienced in the future.
 The question includes both movement in space on a moving planet and connections between frames of phenomenal consciousness, including sleep and anesthesia.  
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/time.png" width="400">  
+<img src="images/time.png" width="400">  
 To say that the particle lt, which is the carrier of consciousness, the so-called observer, cannot exist is equivalent to saying that there is no carrier of consciousness in the collection of particles forming the brain.  
 The idea of the emergence of the carrier of consciousness has problems: there will be a contradiction if some particle is replaced.
 If two brains have two identical emergent carriers of consciousness, then again we come to the problem of choosing the brain.
@@ -416,7 +416,7 @@ The ability to create an identity implies the possibility of creating an identic
 The uniqueness of the lt is fundamental, cannot be artificially generated, and is analogous to the no-cloning theorem.
 Without uniqueness, there would be no connection with the current brain, just as there is no connection with another brain that is not one’s own.  
 Qualia have a parameter of location relative to a reference point in space, where the center is located at the consciousness bearer.  
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/position.png">  
+<img src="images/position.png">  
 To say that particles with qualia properties do not exist is to say that the organism is not consist of particles, or qualia do not exist, or are not connected with particles.
 The organism consists of particles, and the phenomenon of qualia exists; one must be connected with the other. The theory does not introduce anything new, but connects one with the other.  
 The philosophical term "indivisibility of consciousness" is explained by the indivisible so-called observer, the bearer of consciousness, the lt.
@@ -478,7 +478,7 @@ Attachment to an organism is a physical interaction, the assumption of non-retur
 
 ## Part 4. Qualia-brain connection
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/brainqualia.png" width="250">
+<img src="images/brainqualia.png" width="250">
 
 **Pointwise binding problem**
 
@@ -490,7 +490,7 @@ The problem concerns both the binding of qualia to each other and their binding 
 Introducing the particle, the receiver of qualia, does not create a new problem of how it receives signals - the problem already exists with qualia even without the particle.
 Quantum entanglement solves this.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/point.png">
+<img src="images/point.png">
 
 **Qualia methods**
 
@@ -501,17 +501,17 @@ This creates a simultaneity problem; the time of the event must also be transmit
 This contradicts the fact that an atom cannot store a lot of different information, however in this case a law of qualia is assumed that allows to bypass this.
 It does not resolve the speed issue and leads to the overlap of qualia.
 It is not realistic and is provided only as an example of a search.
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/method.png">
+<img src="images/method.png">
 2) Particles are quantum entangled with each other, the electrical activity around them creates qualia in them, which is felt by the lt connected to them.
 The method corresponds to the Orch OR theory (Orchestrated Objective Reduction) by Penrose and Hameroff.
 In Orch OR, the issue of speed is addressed through frames caused by the collapse of the wave function.
 The method is the main option under consideration.
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/method2.png">
+<img src="images/method2.png">
 3) Field.
 For generation, it must transfer information to the quantum level.
 The method corresponds to the CEMI theory.
 The method is not a generator and can only be considered as an intermediate stage.
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/method3.png">
+<img src="images/method3.png">
 
 **Qualia size**
 
@@ -525,7 +525,7 @@ Some qualia are connected to others. This indicates a complex structure of quali
 Other qualia also have a size parameter; for example, pain has one.
 The size and the coordinate of qualia are parameters of the same order.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/round.png">
+<img src="images/round.png">
 
 **Speed of time**
 
@@ -637,7 +637,7 @@ The way information is encoded for qualia will be studied during the research of
 Since the size of the point of the visual image is nonzero, this means that we are directly observing quantum states, or a qualia object that depends on it.
 The fact that qualia are generated from a quantum state allows us to define formulas for the qualia wave function.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/decode.png" width="150">
+<img src="images/decode.png" width="150">
 
 **Generator structure**
 
@@ -726,11 +726,11 @@ The research of the qualia generator is a path to the revelation of the potentia
 Since qualia depends on the information of the quantum state, the parameters of qualia are set through the Hilbert space.
 The Hilbert space has no boundaries, but whether the qualia parameters have boundaries can only be determined in practice.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/eye.png" width="200">
+<img src="images/eye.png" width="200">
 
 **Self**
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/me.png">
+<img src="images/me.png">
 
 The feeling of "yourself" is directed at yourself.
 However, this is just a feeling, and this feeling may not exist.
@@ -784,7 +784,7 @@ This may indicate an unlikely error in the article, for which there are no visib
 
 ## Part 6. Qualia space
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/space.png" width="250">
+<img src="images/space.png" width="250">
 
 **Distance**
 
@@ -803,7 +803,7 @@ As you grow older, objects are felt to be of a different size, and even if there
 Furthermore, one's own spatial domain is a more complex structure.
 An experiment on creating pain at a distance and researching a qualia generator could help clarify the question and the distance limit.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/distance.png">
+<img src="images/distance.png">
 
 **Space**
 
@@ -812,7 +812,7 @@ This may mean that qualia cannot participate in 4-dimensional space. Clarifying 
 Space can be distorted according to the theory of relativity. How is this connected to the space of qualia?
 1) The qualia field has its own internal space
 2) The qualia field itself is distorted along with the distortion of space; for example, a massive gravitational wave can distort the image
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/wave.png">
+<img src="images/wave.png">
 
 **Angle of rotation**
 
@@ -826,7 +826,7 @@ If the position of qualia is set by a parameter, then the angle of the field may
 Maintaining the angle of the lt requires separate functionality, which suggests that the coordinate of qualia is most likely set by a parameter, not a spatial coordinate.  
 The direction of the qualia field is similar to the spin of a particle.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/rotation.png" width="250">
+<img src="images/rotation.png" width="250">
 
 **Multilayer image**
 
@@ -835,20 +835,20 @@ The brain is supposed to be able to create a volumetric image of no more than on
 The question concerns not the brain, but the nature of qualia.
 At the same time, the image layer does not appear as something that occupies volume, as if there are two size parameters - height and width - while the third parameter, depth, is absent.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/layerposition.png" width="250">
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/layer.png" width="250">
+<img src="images/layerposition.png" width="250">
+<img src="images/layer.png" width="250">
 
 The brain already generates a multi-layered image with overlap.
 The pixel size is not zero, the object overlaps the surface behind the object not exactly at the pixel edge.
 This may mean that the brain already constructs a partially layered image without transparency, but the qualia structure does not allow for overlapping edges to be displayed.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/layerpoint.png" width="250">
+<img src="images/layerpoint.png" width="250">
 
 ---
 
 ## Part 7. Link between qualia and universe's fate
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/cycle.png">
+<img src="images/cycle.png">
 
 **Robots**
 
@@ -858,7 +858,7 @@ This scenario of an incomplete cyclic universe is equivalent to the scenario of 
 
 **Cyclicality**
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/universestatecycle.png">
+<img src="images/universestatecycle.png">
 
 Robots can destroy life.
 If the universe is cyclic - this allows the robots to be destroyed, but it leads again to an evolutionary path.
@@ -884,7 +884,7 @@ This also answers the question of the meaning of life.
 The purpose of the lifticle's creation is the meaning of life, but since the lifticle's existence is a paradox, the meaning of life lies in the paradox.
 At the same time, there are directions of life: happiness/positive qualia, pain/negative qualia, and "zero eternity".
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/modellife.png">
+<img src="images/modellife.png">
 
 **Status**
 
@@ -904,7 +904,7 @@ The answer to what a lt is and how qualia are generated will also determine whet
 
 **Atom**
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/atom.png" width="100">
+<img src="images/atom.png" width="100">
 
 In the brain, no other attached particles occupying volume have been found.
 This may suggest that the lt is located within an atom.
@@ -925,7 +925,7 @@ A similar question applies to the early universe - the first hundreds of thousan
 If one fails to preserve their lt, the absorption of Earth by the Sun could result in remaining within the Sun’s structure for billions of years - and it is unknown whether qualia exist there or what their level might be; potentially extremely adverse.
 This is one of the reasons cryonics is necessary - at least until the nature and level of qualia in the solar environment is properly studied.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/star.png" width="150">
+<img src="images/star.png" width="150">
 
 **Multiplicity of consciousness**
 
