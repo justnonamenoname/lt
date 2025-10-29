@@ -8,7 +8,7 @@ Lt is a particle that acts as a subject, the so-called observer in the brain, wi
 The lt remains in the brain after its death.  
 Phenomenal consciousness is the sum of sensations/qualia. Other brain functions are not part of phenomenal consciousness.
 
-<img src="images/1.png" width="250">
+<img src="images/1.png" width="200">
 
 ## Part 1. Survival
 Necessity of cryonics
