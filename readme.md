@@ -389,6 +389,8 @@ According to the principle of locality and the special theory of relativity, a v
 The simultaneous display of millions of points of a visual image violates the principle of locality, which means that phenomenal consciousness is not constrained by the special theory of relativity; this relates to the problem of pointwise binding.
 It is impossible to derive anything that violates the special theory of relativity from something that obeys it.  
 The problem of pointwise binding requires a separate physical law, which also implies the fundamentality of qualia (the issue is discussed in the section on the connection between qualia and the brain).  
+<img src="images/magicdistance.png" width="250">  
+
 If we find a neuron that contains information about a red color point, then the question arises: why does this result in the experience of red, and without introducing qualia as a distinct phenomenon, this cannot be resolved.  
 The fact that the brain is divided into regions and that they influence the generation of qualia, does not contradict the existence of signal convergence for qualia into a central point, the absence of which leads to the binding problem.
 No separation of qualia across different parts of the brain was found.
