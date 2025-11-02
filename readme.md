@@ -559,10 +559,14 @@ This may be the reason why phenomenal consciousness became fixed in evolution.
 The information sent to the qualia generator cannot be identical to the information about the existence of qualia transmitted through feedback; otherwise, it would be impossible to learn about the existence of qualia.
 Introducing a qualia property that has no influence of its own would make it impossible to know about it.
 And adding influence to it would lead to a violation of the cause-and-effect relationship.
-An influence that does not violate this does not allow one to know about the existence of qualia, since it is not associated with it.
+An influence that does not violate this does not allow one to know about the existence of qualia, since it is not associated with it.  
+<img src="images/reverseinfluencenoquantum.png">
+
 The option of creating qualia and its reverse influence at the moment of collapse makes the property of qualia combined with its influence.
 If it is assumed that reverse influence lies behind non-random processes, then these processes could be modeled, but then the existence of qualia could be known without qualia itself, and qualia would not exert reverse influence.
-This means that qualia cannot stand behind non-random processes and is connected to random quantum ones.
+This means that qualia cannot stand behind non-random processes and is connected to random quantum ones.  
+<img src="images/reverseinfluencequantum.png">
+
 2 possible variants of reverse influence on random quantum processes:
 1) Not at the moment of sensation, but later
 2) At the moment of sensation, the influence of qualia on the collapse of the wave function
